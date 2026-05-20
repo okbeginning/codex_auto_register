@@ -2,14 +2,21 @@
 
 基于 DuckMail 的 ChatGPT / Codex 自动注册与 OAuth Token 生成工具集。
 
-<div style="text-align: center;">
+<div style="text-align: left;">
   <a href="https://bestproxy.com/?keyword=myspaqek" target="_blank">
-    <img src="assets/bestproxy.gif" alt="BestProxy - 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，著提升账号通过率与长期存活率" width="100%">
+    <img src="assets/bestproxy.gif" alt="BestProxy" width="60%">
   </a>
 </div>
 
+> [BestProxy](https://bestproxy.com/?keyword=myspaqek) — 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，显著提升账号通过率与长期存活率
 
-> [BestProxy](https://bestproxy.com/?keyword=myspaqek) - 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，著提升账号通过率与长期存活率
+<div style="text-align: left;">
+  <a href="https://www.rapidproxy.io/?ref=Ttungx" target="_blank">
+    <img src="assets/rapidproxy.jpg" alt="RapidProxy" width="60%">
+  </a>
+</div>
+
+> [RapidProxy](https://www.rapidproxy.io/?ref=Ttungx) — 高稳定住宅代理，动态轮换与静态独享IP，真实住宅IP资源，有效降低风控
 
 ---
 
