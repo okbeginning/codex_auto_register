@@ -1,6 +1,12 @@
+<p><strong style="color:red;">⚠ 🚨 [DEPRECATED] V1 is no longer maintained due to API changes. <p>🔥 V2 (Working & Undetected) is currently closed-source and exclusively available in our community. <p>👉 Join our TG/Discord (HNUDAO Dev) to get API access: <a href="https://t.me/+inDiCrZ6ZeZiODQx">https://t.me/+inDiCrZ6ZeZiODQx</a></strong></p>
+
 # codex_auto_register
 
-基于 DuckMail 的 ChatGPT / Codex 自动注册与 OAuth Token 生成工具集。
+[English](README_EN.md) | 简体中文
+
+这是一款基于 DuckMail API 的自动化 OAuth 授权测试工具，旨在研究 AI 接口的高并发调用与身份验证机制。本工具由 [HNU 区块链协会](https://github.com/HNUDAO) 维护开发。
+
+For updates, bug reports, and more Web3/AI tools, join our official developer community: [Telegram 社群](https://t.me/+inDiCrZ6ZeZiODQx)
 
 <div style="text-align: left;">
   <a href="https://bestproxy.com/?keyword=myspaqek" target="_blank">
@@ -19,6 +25,14 @@
 > [RapidProxy](https://www.rapidproxy.io/?ref=Ttungx) — 高稳定住宅代理，动态轮换与静态独享IP，真实住宅IP资源，有效降低风控
 
 ---
+
+## 赞助 HNU 区块链协会
+
+| 档位 | 价格 | 权益 |
+| --- | --- | --- |
+| 银牌赞助 | 100U/月 | README底部logo + 协会官网展示 |
+| 金牌赞助 | 300U/月 | README中部显眼位置 + 协会官网导师位 |
+| 钻石赞助 | 500U/月 | README顶部独占 + 协会公众号推文 + GitHub讨论区置顶 |
 
 >⚠️ **免责声明**：本项目仅供学习和研究使用，不得用于任何商业用途。使用本项目所产生的一切后果由使用者自行承担。
 
