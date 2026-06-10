@@ -7,15 +7,6 @@
 这是一款基于 DuckMail API 的自动化 OAuth 授权测试工具，旨在研究 AI 接口的高并发调用与身份验证机制。本工具由 [HNU 区块链协会](https://github.com/HNUDAO) 维护开发。
 
 For updates, bug reports, and more Web3/AI tools, join our official developer community: [Telegram 社群](https://t.me/+inDiCrZ6ZeZiODQx)
-
-<div style="text-align: left;">
-  <a href="https://bestproxy.com/?keyword=myspaqek" target="_blank">
-    <img src="assets/bestproxy.gif" alt="BestProxy" width="60%">
-  </a>
-</div>
-
-> [BestProxy](https://bestproxy.com/?keyword=myspaqek) — 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，显著提升账号通过率与长期存活率
-
 <div style="text-align: left;">
   <a href="https://www.rapidproxy.io/?ref=Ttungx" target="_blank">
     <img src="assets/rapidproxy.jpg" alt="RapidProxy" width="60%">
